@@ -260,16 +260,22 @@ p{
     background-position: center;
   }
   footer{
-    margin-top: 210%;
+    margin-top: 140%;
     height: 66vh;
   }
-  header{
-    background-image: url("./WhatsApp\ Image\ 2023-10-26\ at\ 09.42.52\ \(1\).jpeg");
-  }
+ .twoo .image , .twoo .lead{
+  display: flex;
+  justify-content: center;
+ }
   button{
     display: none;
   }
-  .end h1{
+  .memberr{
+    display: flex;
+    justify-content: center;
+    margin-top: 177px;
+  }
+.end h1{
    
   }
   .footer{
